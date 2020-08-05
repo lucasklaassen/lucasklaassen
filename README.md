@@ -7,6 +7,8 @@
 [<img align="left" alt="lucasklaassen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="lucasklaassen | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br />
+
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasklaassen)](https://github.com/anuraghazra/github-readme-stats)
