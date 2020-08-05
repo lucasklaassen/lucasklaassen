@@ -33,6 +33,6 @@
 <img align="left" alt="lucasklaassen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lucasklaassen&show_icons=true&hide_border=true" />
 
 [website]: https://www.lucasklaassen.com
-[youtube]: https://youtube.com/lucasklaassen
+[youtube]: https://www.youtube.com/channel/UCIlEjd8jHL_Tl-rOzauYTkA
 [instagram]: https://instagram.com/lucasklaassen
 [linkedin]: https://www.linkedin.com/in/lucas-klaassen/
