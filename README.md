@@ -15,7 +15,7 @@
 
 ---
 
-<img align="left" alt="lucasklaassen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lucasklaassen&count_private=true&show_icons=true&hide_border=true&include_all_commits=true" />
+<img align="left" alt="lucasklaassen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lucasklaassen&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&hide=prs,issues,contribs" />
 
 [website]: https://www.lucasklaassen.com
 [youtube]: https://www.youtube.com/channel/UCIlEjd8jHL_Tl-rOzauYTkA
