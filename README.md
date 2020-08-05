@@ -1,4 +1,4 @@
-### Hi there, I'm Jesse - aka [lucasklaassen][website] 👋
+### Hi there, I'm Lucas - aka [lucasklaassen][website] 👋
 
 ### Connect with me:
 
