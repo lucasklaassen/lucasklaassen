@@ -9,11 +9,7 @@
 
 <br />
 
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasklaassen)](https://github.com/anuraghazra/github-readme-stats)
-
----
+<img align="left" alt="lucasklaassen's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasklaassen" />
 
 <img align="left" alt="lucasklaassen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lucasklaassen&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&hide=prs,issues,contribs" />
 
