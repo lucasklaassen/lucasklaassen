@@ -30,7 +30,7 @@
 
 ---
 
-<img align="left" alt="lucasklaassen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lucasklaassen&show_icons=true&hide_border=true" />
+<img align="left" alt="lucasklaassen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lucasklaassen&count_private=true&show_icons=true&hide_border=true" />
 
 [website]: https://www.lucasklaassen.com
 [youtube]: https://www.youtube.com/channel/UCIlEjd8jHL_Tl-rOzauYTkA
