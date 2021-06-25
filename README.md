@@ -1,5 +1,7 @@
 ### 👋,  I'm Lucas
 
+### Currently working as a Technical Architect (Back-end) at [Thinkific](https://www.thinkific.com/)
+
 ### Connect with me:
 
 [<img align="left" alt="lucasklaassen.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
