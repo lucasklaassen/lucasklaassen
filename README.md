@@ -1,6 +1,6 @@
 ### 👋,  I'm Lucas
 
-### Currently working as a Senior Technical Architect (Back-end) at [Thinkific](https://www.thinkific.com/)
+### Currently working as a Sr. Technical Architect (Back-end) at [Thinkific](https://www.thinkific.com/)
 
 ### Connect with me:
 
