@@ -1,6 +1,12 @@
 ### 👋,  I'm Lucas
 
-### Currently working as a Sr. Technical Architect (Back-end) at [Thinkific](https://www.thinkific.com/)
+#### Currently working as a Sr. Technical Architect at [Thinkific](https://www.thinkific.com/)
+
+### Opensource Contributions:
+
+#### [Rails](https://github.com/rails/activeresource/pull/299)
+#### [NewRelic](https://github.com/newrelic/newrelic-ruby-agent/pull/1177)
+
 
 ### Connect with me:
 
@@ -10,5 +16,6 @@
 <br />
 <br />
 
-[website]: https://www.lucasklaassen.com
 [linkedin]: https://www.linkedin.com/in/lucas-klaassen/
+[website]: https://www.lucasklaassen.com
+
