@@ -1,6 +1,6 @@
 ### 👋,  I'm Lucas
 
-#### Currently working as a Sr. Technical Architect at [Thinkific](https://www.thinkific.com/)
+#### Currently working as [Thinkific's](https://www.thinkific.com/) Lead Architect
 
 ### Opensource Contributions:
 
