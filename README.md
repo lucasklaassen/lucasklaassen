@@ -4,6 +4,7 @@
 
 ### Opensource Contributions:
 
+#### [OpenAI](https://github.com/openai/evals/pull/981)
 #### [Rails](https://github.com/rails/activeresource/pull/299)
 #### [NewRelic](https://github.com/newrelic/newrelic-ruby-agent/pull/1177)
 
