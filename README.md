@@ -1,6 +1,6 @@
 ### 👋,  I'm Lucas
 
-#### Currently working as [Thinkific's](https://www.thinkific.com/) Lead Architect
+#### Currently working as [Thinkific's](https://www.thinkific.com/) Principal of AI
 
 ### Opensource Contributions:
 
