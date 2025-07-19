@@ -1,7 +1,5 @@
 ### 👋,  I'm Lucas
 
-#### Currently working as [Thinkific's](https://www.thinkific.com/) Principal of AI
-
 ### Opensource Contributions:
 
 #### [OpenAI](https://github.com/openai/evals/pull/981)
